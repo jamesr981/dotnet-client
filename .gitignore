@@ -4,3 +4,8 @@ src/DotNetClient/DotNetClient/bin
 src/DotNetClient/DotNetClient/obj
 src/DotNetClient/TestWondeClient/bin
 src/DotNetClient/TestWondeClient/obj
+src/DotNetClient/Tests/bin
+src/DotNetClient/Tests/obj
+src/DotNetClient/packages
+src/DotNetClient/.vs
+src/DotNetClient/.idea

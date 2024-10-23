@@ -170,7 +170,7 @@ namespace Wonde
                 return false;
 
             MetaData = (Dictionary<string, object>)res["meta"];
-            ArrayData = (ArrayList)res["data"];
+            ArrayData = (List<object>)res["data"];
             Reset();
             arrEnum = ArrayData.GetEnumerator();
             return true;
